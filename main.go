@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 	"fmt"
-	spfi_api "github.wdf.sap.corp/i024152/spfi_client/api"
+	spfi_api "github.com/i024152/spfi_client/api"
 )
 
 func main() {
